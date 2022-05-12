@@ -1,4 +1,4 @@
-# Face to face interaction analysis
+# Face-to-face interaction analysis
 Representative examples using scripts developed for the analysis made for the manuscript:
 
 **"Title"**
@@ -8,7 +8,7 @@ Max Thorsson, Martyna A. Galazka, Jakob Åsberg Johnels, Nouchine Hadjikhani
 Note: full citation will be made available later.
 
 ## The responsory features:
-* Time lagged cross-correlation
+* Time-lagged cross-correlation
 * Face plane correction using affine transformation
 
 ## How to use
