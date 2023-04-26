@@ -1,11 +1,8 @@
 # Face-to-face interaction analysis
 Representative examples using scripts developed for the analysis made for the manuscript:
 
-**"Title"**
+Thorsson, M., Galazka, M.A., Åsberg Johnels, J. Hadjikhani, N. A novel end-to-end dual-camera system for eye gaze synchrony assessment in face-to-face interaction. Atten Percept Psychophys (2023). https://doi.org/10.3758/s13414-023-02679-4
 
-Max Thorsson, Martyna A. Galazka, Jakob Åsberg Johnels, Nouchine Hadjikhani
-
-Note: full citation will be made available later.
 
 ## The responsory features:
 * Time-lagged cross-correlation
