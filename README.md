@@ -6,7 +6,7 @@ Thorsson, M., Galazka, M.A., Åsberg Johnels, J. Hadjikhani, N. A novel end-to-e
 
 ## The responsory features:
 * Time-lagged cross-correlation
-* Face plane correction using affine transformation
+* Face plane correction using affine transformation and AOI classification
 
 ## How to use
 To view Jupyter Notebook files, simply click them. Download responsory and excecute through Jupyter Notebook.
